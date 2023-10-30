@@ -1,0 +1,11 @@
+/* Image style CSS*/
+#scrollUp {
+        background-image: url("../img/smncstt-top.png");
+        background-color: #dd3333;
+        width: 38px; 
+        height: 38px;
+        bottom: 5px;
+        right: 5px;
+        text-indent: -99999px;
+        display: block;
+}
